@@ -2,6 +2,9 @@
 title: Space Jam
 timezone: UTC
 collections:
+  collection-people:
+    title: Collection (people)
+    output: true
   posts:
     title: Posts
     output: true
